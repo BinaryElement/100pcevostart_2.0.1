@@ -1,0 +1,9 @@
+{
+  "name": "100pcevostart",
+  "version": "2.0.1",
+  "title": "100% Biter Evolution Start",
+  "author": "Michael Hendriks",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Starts off the game at maximum evolution... (as seen in Michael Hendriks YouTube series [Is it possible to beat Factorio with absolutely very normal settings? (and 1 teeny tiny mod...)])... Good Luck Soldier!\n\n2.0 update allows customizing the start value."
+}
